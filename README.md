@@ -12,8 +12,9 @@ Combine computer vision and natural language processing to buildan image caption
 
 4. Task 4 RECOMMENDATION SYSTEM
 Create a simple recommendation system that suggests items tousers based on their preferences. You can use techniques likecollaborative filtering or content-based filtering to recommendmovies, books, or products to users.
+Demo : ![recommend](https://github.com/user-attachments/assets/b6f364bd-bd7c-4be8-91ef-1249eaaaa8b5)
 
-5. TASK 5: FACE DETECTION ANDRECOGNITION
+6. TASK 5: FACE DETECTION ANDRECOGNITION
 Develop an AI application that can detect and recognize faces inimages or videos. Use pre-trained face detection models like Haarcascades or deep learning-based face detectors, and optionallyadd face recognition capabilities using techniques like Siamesenetworks or ArcFace.
  
  
