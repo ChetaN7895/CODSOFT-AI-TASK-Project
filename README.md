@@ -14,8 +14,9 @@ Combine computer vision and natural language processing to buildan image caption
 Create a simple recommendation system that suggests items tousers based on their preferences. You can use techniques likecollaborative filtering or content-based filtering to recommendmovies, books, or products to users.
 Demo : ![recommend](https://github.com/user-attachments/assets/b6f364bd-bd7c-4be8-91ef-1249eaaaa8b5)
 
-6. TASK 5: FACE DETECTION ANDRECOGNITION
+6. TASK 5: FACE DETECTION AND RECOGNITION
 Develop an AI application that can detect and recognize faces inimages or videos. Use pre-trained face detection models like Haarcascades or deep learning-based face detectors, and optionallyadd face recognition capabilities using techniques like Siamesenetworks or ArcFace.
+Face Detection Demo Image : ![Face1](https://github.com/user-attachments/assets/bcdf691f-54a8-4ad4-8b4c-3b25ce38923f)
  
  
  ChatBot AI Video Demo 🔥👍🏻💻 https://youtu.be/cELlaWwinGU?si=rQqefgzE1PpCu6F8
